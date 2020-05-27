@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIMBot", "HIMBot\HIMBot.csproj", "{0DE2CF76-405F-4CD1-9095-1A6259C3441F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE2CF76-405F-4CD1-9095-1A6259C3441F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE2CF76-405F-4CD1-9095-1A6259C3441F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE2CF76-405F-4CD1-9095-1A6259C3441F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE2CF76-405F-4CD1-9095-1A6259C3441F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48843B7-5957-4384-B288-65065A0C92AA}
+	EndGlobalSection
+EndGlobal
