@@ -1,2 +1,2 @@
 # himbot
-a c# chatbot fpr twitch
+a c# chatbot for twitch
